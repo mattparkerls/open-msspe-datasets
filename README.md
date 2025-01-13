@@ -4,9 +4,3 @@ These are results from generating primer sequences via [open-msspe-design](https
 
 ---
 
-## Comparison to Benchmarks
-
-![Screenshot 2025-01-07 at 1 35 32 PM](https://github.com/user-attachments/assets/ba13181e-da41-4de4-ae13-583a2da75060)
-
-## New Primer Sequences (without benchmark)
-
