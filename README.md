@@ -4,3 +4,17 @@ These are results from generating primer sequences via [open-msspe-design](https
 
 ---
 
+## Tested Pathogens via PCR Simulation
+1. African Swine Fever Virus
+2. Avian Influenza Virus: H1, H5, H7
+3. Classfical Swine Fever Virus
+4. Foot and Mouth Disease Virus
+5. Measles
+6. Nipah Virus
+7. Chikungunya Virus
+8. Dengue Virus
+9. Ebola Virus
+10. Zika Virus
+11. Yellow Fever Virus
+
+## Experimentally Validated Pathogens
