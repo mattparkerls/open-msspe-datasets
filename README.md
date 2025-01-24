@@ -1,10 +1,10 @@
 # Open-MSSPE-Datasets
 
-These are results from generating primer sequences via [open-msspe-design](https://github.com/opendream/open-msspe-design) and testing against benchmarks from [msspe_datasets](https://github.com/yyw-informatics/MSSPE_datasets)
+These are primer sequences generated automatically via [open-msspe-design](https://github.com/opendream/open-msspe-design) and tested against benchmarks from [msspe_datasets](https://github.com/yyw-informatics/MSSPE_datasets)
 
 ---
 
-## Tested Pathogens via PCR Simulation
+## In Silico Validated Pathogens
 1. African Swine Fever Virus
 2. Avian Influenza Virus: H1, H5, H7
 3. Classfical Swine Fever Virus
@@ -16,5 +16,7 @@ These are results from generating primer sequences via [open-msspe-design](https
 9. Ebola Virus
 10. Zika Virus
 11. Yellow Fever Virus
+12. HPV subtype 18
 
 ## Experimentally Validated Pathogens
+working on it 
